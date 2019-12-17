@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hooked with React
+
+Basically, the app will be able to search for movies via the OMDB API and render the results to the user. The reason for building the app is just so that we can get a better understanding of using hooks in an application
 
 ## Available Scripts
 
